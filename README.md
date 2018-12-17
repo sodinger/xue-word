@@ -1,2 +1,2 @@
 # xue-word
-This is my firsr repository.20160426
+This is my first repository.20160426
